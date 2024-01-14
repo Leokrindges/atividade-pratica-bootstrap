@@ -11,8 +11,7 @@
 <img src="./assets/images/atividade_3.png" alt="Atividade 3">
 
 <h2>Questão 4</h2>
-<span>Em desenvolvimento</spam>
-<img src="#" alt="Atividade 4">
+<a href="https://github.com/Leokrindges/Curriculo_Digital" target="_blank">Link para atividade 4</a>
 
 <h2>Questão 5</h2>
 <img src="./assets/images/atividade_5.png" alt="Atividade 5">
